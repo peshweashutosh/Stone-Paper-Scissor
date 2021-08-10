@@ -38,7 +38,7 @@ int main() {
 	
 	cout<<"\tYou chooose==>";		//switch case is used to display what user has chosen 
 	switch(you) {
-		case 1: cout<< sto;
+		case 1: cout<< stone;
 			break;
 		case 2: cout<< ppr;
 			break;
@@ -49,8 +49,7 @@ int main() {
 	}
 	
 		
-	cout<<"\tComputer chooose==>";		//this block will display what number is generated after calculation 
-	switch(computer) {
+	cout<<"\tComputer chooose==>";		
 		case 1: cout<< sto;
 			break;
 		case 2: cout<< ppr;
